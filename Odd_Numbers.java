@@ -2,8 +2,8 @@ package detyrat_polis;
 import java.util.Scanner;
 
 
-public class Numrat_Tek
-{
+public class Odd_Numbers{
+    
     public static void main(String[] args){
 
     try (Scanner in = new Scanner(System.in)) {
